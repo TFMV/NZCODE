@@ -4,18 +4,18 @@ nz_util.sh is a shell script providing a collection of functions for common data
 
 ## Functions
 
-GatherStats: Gathers statistics for a specified table in a Netezza database.
-TruncateTable: Truncates a specified table in a Netezza database.
-LoadFromFixedFile: Loads data from a fixed-length file into a Netezza table.
-LoadFromDelimited: Loads data from a delimited file into a Netezza table.
-LoadFromSQL: Loads data into a Netezza table using an SQL insert script.
-ExecuteCommand: Executes a given command in a Netezza database.
-WriteCSV: Writes query results to a CSV file.
-GroomTable: Executes the GROOM TABLE command for a specified table.
-CreateLoadTable: Creates a table in Netezza for loading data.
-CreateLoadTableDelimited: Creates a delimited table in Netezza for loading data.
-TouchNZTable: Checks if a specified table exists in a database.
-NzEzLoader: A comprehensive function that automates the process of loading data into a Netezza table.
+- GatherStats: Gathers statistics for a specified table in a Netezza database.
+- TruncateTable: Truncates a specified table in a Netezza database.
+- LoadFromFixedFile: Loads data from a fixed-length file into a Netezza table.
+- LoadFromDelimited: Loads data from a delimited file into a Netezza table.
+- LoadFromSQL: Loads data into a Netezza table using an SQL insert script.
+- ExecuteCommand: Executes a given command in a Netezza database.
+- WriteCSV: Writes query results to a CSV file.
+- GroomTable: Executes the GROOM TABLE command for a specified table.
+- CreateLoadTable: Creates a table in Netezza for loading data.
+- CreateLoadTableDelimited: Creates a delimited table in Netezza for loading data.
+- TouchNZTable: Checks if a specified table exists in a database.
+- NzEzLoader: A comprehensive function that automates the process of loading data into a Netezza table.
 
 ## Usage
 
